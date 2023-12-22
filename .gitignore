@@ -2,3 +2,4 @@
 checkpoints/
 *.jpg
 *.log
+wandb/
